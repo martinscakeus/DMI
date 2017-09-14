@@ -1,5 +1,5 @@
-    
-    
+    1  VirtualBox --startvm XP
+    2  pentagons uzlauzt kods 12345
     3  firefox &
     4  pwd
     5  whoami
@@ -124,3 +124,64 @@
   124  history 
   125  cat history.txt
   126  history > history.txt
+  127  ls -l
+  128  nano history.txt
+  129  ls
+  130  cat history.txt
+  131  git add .
+  132  git commit -m "20170914_16_45"
+  133  git push origin master
+  134  man echo
+  135  echo Tecmint is a community of Linux Nerds 
+  136  x=10
+  137  echo The value of variable x = $x 
+  138  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+  139  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds" 
+  140  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+  141  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds" 
+  142  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds" 
+  143  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds" 
+  144  echo -e "Tecmint \ris a community of Linux Nerds" 
+  145  echo -e "Tecmint is a community \cof Linux Nerds" 
+  146  echo -n "Tecmint is a community of Linux Nerds"
+  147  Tec
+  148  cho -e "Tecmint is a community of \aLinux Nerds"
+  149  echo * 
+  150  echo *.jpeg 
+  151  echo "Test Page" > testpage 
+  152  ## Check Content
+  153  cat testpage
+  154  cp history.txt ~/a1.txt
+  155  cp history.txt /home/user/a2.txt
+  156  cp history.txt ../a3.txt
+  157  ls
+  158  cd ..
+  159  ls
+  160  cd /
+  161  mv /home/user/*.txt ~/darbi/
+  162  cd
+  163  ls
+  164  cd darbi/
+  165  ls
+  166  pwd
+  167  mkdir apaksdarbi
+  168  ls -l
+  169  mv a*.txt ./apaksdarbi/
+  170  ls
+  171  cd apaksdarbi
+  172  ls
+  173  cd ..
+  174  rmdir apaksdarbi/
+  175  man rmdir
+  176  rm apaksdarbi/
+  177  rm -r apaksdarbi/
+  178  ls
+  179  cat history.txt
+  180  less history.txt 
+  181  nano history.txt 
+  182  ls -l
+  183  nano 
+  184  cat nano.txt
+  185  pwd
+  186  ls -la
+  187  history > history.txt 
