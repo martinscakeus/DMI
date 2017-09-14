@@ -1,5 +1,5 @@
-    1  VirtualBox --startvm XP
-    2  pentagons uzlauzt kods 12345
+    
+    
     3  firefox &
     4  pwd
     5  whoami
@@ -101,3 +101,26 @@
   101  ls -la
   102  history
   103  history > history.txt
+  104  ls -la
+  105  cat history
+  106  cat history.txt
+  107  pwd
+  108  ls
+  109  cat history.txt 
+  110  ls
+  111  cat history.txt 
+  112  git init
+  113  git add .
+  114  git config --global user.email cakeusmartins@gmail.com
+  115  ls
+  116  git commit -m "20170914_15_55"
+  117  git remote add origin https://github.com/martinscakeus/DMI.git
+  118  git push origin master
+  119  history.txt
+  120  history 
+  121  ls -l
+  122  pwd
+  123  ls -l
+  124  history 
+  125  cat history.txt
+  126  history > history.txt
