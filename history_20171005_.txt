@@ -1,0 +1,62 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/martinscakeus/DMI
+    3  cd DMI
+    4  pwd
+    5  cd.
+    6  cd .
+    7  .
+    8  . cd
+    9  cd .
+   10  cd ..
+   11  pwd
+   12  ls
+   13  ls -la
+   14  cd DMI
+   15  ls -la
+   16  cd ..
+   17  ls -l
+   18  cd DMI
+   19  nano test1
+   20  test1
+   21  nano test1
+   22  test1
+   23  ch mod 744 test1
+   24  chmod 744 test1
+   25  test1
+   26  ./test1
+   27  test1
+   28  ./test1
+   29  nano test1
+   30  nano shell_operators.sh
+   31  ./shell_operators.sh
+   32  chmod 744 shell_operators.sh
+   33  ./shell_operators.sh
+   34  nano shell_operators.sh 
+   35  ./shell_operators.sh 
+   36  nano shell_operators.sh 
+   37  ./shell_operators.sh 
+   38  nano shell_operators.sh 
+   39  ./shell_operators.sh 
+   40  nano shell_operators.sh 
+   41  ./shell_operators.sh 
+   42  naono shell_operators.sh 
+   43  nano shell_operators.sh 
+   44  ./shell_operators.sh 
+   45  nano shell_operators.sh 
+   46  cat shell_operators.sh 
+   47  ./shell_operators.sh 
+   48  nano shell_operators.sh 
+   49  ./shell_operators.sh 
+   50  nano shell_operators.sh 
+   51  ./shell_operators.sh 
+   52  nano shell_operators.sh 
+   53  ./shell_operators.sh 
+   54  nano shell_operators.sh 
+   55  ./shell_operators.sh 
+   56  nano shell_operators.sh 
+   57  ./shell_operators.sh 
+   58  nano shell_operators.sh 
+   59  cat history
+   60  nano shell_operators.sh 
+   61  ./shell_operators.sh  30 34
+   62  history > history_20171005_.txt
