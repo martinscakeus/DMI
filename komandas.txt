@@ -1,0 +1,40 @@
+"./"-Startē failu,skriptu no tā atrašanās vietas.
+"PATH=$PATH"-Pievieno direktoriju sistēmas 'ceļa'beigās.
+"cat"-Parāda teksta failus.
+"cd .."Ļauj paiet atpakaļ pa direktorijiem.
+"cd ~" Ļauj pārvietoties uz mājas apgabalu.
+"cd"-Komanda,kas ļauj pārvietoties pa direktorijiem.
+"chmod"-Maina direktoriju un failu atļauju,"piekļuvi"sistēmai,piemēram, chmod 744.
+"cp"-Komanda  veic direktoriju un failu kopēšanu.
+"echo $0"-Parāda Linux paveidu.
+"echo $PATH"-Parāda Linux 'ceļus'.
+"echo"-Parāda uzrakstīto tekstu.Daudz tiek izmantots skriptos.
+"firefox &"-Startē programu Mozilla Firefox.
+"git add"-Pievieno informāciju, kua tiks ievietota repozitārijā.
+"git clone"-Izveido Github repozitārija kopiju lokālajā sistēmā.
+"git commit"-Pievieno izmaiņas un datus ,piemēram, datumu.
+"git config --global"-Komanda ļuaj gan pievienot informāciju repozitārijam, gan to lejuplādēt.
+"git init"-Izveido GIT repozitāriju(krātuvi).
+"git push origin master"-Komanda veic izmaiņas repozitārijā.
+"git remote add origin"-Komanda veic savienojumu ar repozitāriju.
+"history > history.txt"-Parvieto vēsturi uz teksta failu history.txt.
+"history"-Parāda vēsturi.
+"less"-Parāda visu teksta dokumentu.
+"ls -a"-Parāda visus paslēptos un redzamos direktorijus.
+"ls -l"-Parāda direktoriju sarakstu ar piekļuves datiem.
+"ls -la"-Parāda detalizētāku direktorija sarakstu.
+"ls -r"-Parāda galvenos direktorjus (pretēja virzienā).
+"ls"-Parāda galvenos direktorijus.
+"lsb_release"-Dod iespēju noskaidrot Linux sistēmas versiju.
+"man"-Parāda komandas un to aprakstus.
+"mkdir"-Komanda ļuaj izveidot direktorijus.
+"mv"-Komanda pārvieto failus.
+"nano"-Atver teksta redaktoru.
+"pwd"-Parāda atrašanās vietu direktorijā.
+"rm"-Dzēš failus un direktorijus.
+"rm-rf"-Izdzēš direktoriju nejautājot atļauju.
+"rmdir"-Komanda izdzēš direktoriju.
+"uname -r"-Parāda kernel versiju.
+"whereis"-Parāda 'ceļu', kur atrodas norādītais fails.
+"who"-Parāda visus lietotājus, kuri ir pieslēgušies sistēmai.
+"whoami"-Parāda lietotāju.

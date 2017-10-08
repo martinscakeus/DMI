@@ -1,0 +1,82 @@
+    1  pwd
+    2  who
+    3  wher
+    4  where
+    5  a
+    6  -a
+    7  - a
+    8  ls
+    9  pwd
+   10  pwd -a
+   11  ls-a
+   12  ls -a
+   13  pwd
+   14  l
+   15  ls
+   16  -ls
+   17  a -ls
+   18  d
+   19  -d
+   20  -a
+   21  l
+   22  pwd
+   23  who
+   24  whoami
+   25  when'
+   26  when
+   27  pwd
+   28  ls
+   29  histor
+   30  history
+   31  a
+   32  d
+   33  -d
+   34  c ..
+   35  c.
+   36  c document
+   37  c.
+   38  c .
+   39  c ..
+   40  pwd
+   41  who
+   42  whoami
+   43  e
+   44  - e
+   45  e-
+   46  dc
+   47  man sudo _root
+   48  command
+   49  pwd
+   50  /home/martins/documents
+   51  dc documents
+   52  dc firefox
+   53  dc
+   54  pwdd
+   55  pwd
+   56  who
+   57  dc
+   58  ls
+   59  sl
+   60  l
+   61  a -ls
+   62  d -ls
+   63  pwd
+   64  git clone https://github.com/martinscakeus/DMI
+   65  gitclone https://github.com/martinscakeus/DMI
+   66  git clone https://github.com/martinscakeus/DMI
+   67  git clone https://github.com/martinscakeus/DMI.git
+   68  git clone https://github.com/martinscakeus/DMI
+   69  #!/bin/bash
+   70  git clone https://github.com/martinscakeus/DMI.git
+   71  #!/bin/bash
+   72  chmod 744 git clone
+   73  git clone
+   74  gitclone #!/bin/bash
+   75  gitclone https://github.com/martinscakeus/DMI.git
+   76  git clone https://github.com/martinscakeus/DMI.git
+   77  sudo apt install git
+   78  git clone https://github.com/martinscakeus/DMI.git
+   79  ls -l
+   80  cd DMI
+   81  nano komandas.txt
+   82  history > history20171008.txt
