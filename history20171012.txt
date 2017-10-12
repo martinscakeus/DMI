@@ -1,0 +1,74 @@
+    1  VirtualBox --startvm XP
+    2  parskaitit naudu uz manu kontu LVHABA9082934859684
+    3  history
+    4  clear history
+    5  history
+    6  clear
+    7  history
+    8  git clone https://github.com/martinscakeus/DMI
+    9  cd DMI
+   10  cd ..
+   11  cd DMI
+   12  ls
+   13  nano shell_exple.sh 
+   14  nano shell_operators.sh 
+   15  nano relation_operators.sh
+   16  ./ relation_operators.sh 
+   17  ./relation_operators.sh
+   18  chmod 744 relation_operators.sh
+   19  ./relation_operators.sh
+   20  nano relation_operators.sh
+   21  ./relation_operators.sh
+   22  nano relation_operators.sh
+   23  ./relation_operators.sh
+   24  nano relation_operators.sh 
+   25  nano shell_relational_operators_comments.sh
+   26  chmod 744 shell_relational_operators_comments.sh
+   27  ./shell_relational_operators_comments.sh 
+   28  ls -l
+   29* na
+   30  nano shell_relational_operators_comments.sh
+   31  ./shell_relational_operators_comments.sh 
+   32  chmod 744 shell_relational_operators_comments.sh 
+   33  ./shell_relational_operators_comments.sh 
+   34  nano shell_relational_operators_comments.sh
+   35  ./shell_relational_operators_comments.sh 
+   36  nano shell_relational_operators_comments.sh
+   37  ./shell_relational_operators_comments.sh 
+   38  nano shell_relational_operators_comments.sh
+   39  ./shell_relational_operators_comments.sh 
+   40  nano shell_relational_operators_comments.sh
+   41  ./shell_relational_operators_comments.sh 
+   42  nano shell_relational_operators_comments.sh
+   43  ./shell_relational_operators_comments.sh 
+   44  nano shell_relational_operators_comments.sh
+   45  ./shell_relational_operators_comments.sh 
+   46  nano shell_relational_operators_comments.sh
+   47  ./shell_relational_operators_comments.sh 
+   48  nano shell_relational_operators_comments.sh
+   49  ./shell_relational_operators_comments.sh 
+   50  nano shell_relational_operators_comments.sh
+   51  ./shell_relational_operators_comments.sh 
+   52  nano shell_relational_operators_comments.sh
+   53  ./shell_relational_operators_comments.sh 
+   54  nano shell_relational_operators_comments.sh
+   55  ./shell_relational_operators_comments.sh 
+   56  nano trenins_1.sh
+   57  chmod 744 trenins_1.sh
+   58  ./trenins_1.sh
+   59  nano trenins_1.sh
+   60  ./trenins_1.sh
+   61  nano trenins_1.sh
+   62  ./trenins_1.sh
+   63  nano trenins_1.sh
+   64  ./trenins_1.sh
+   65  nano trenins_1.sh
+   66  ./trenins_1.sh
+   67  nano trenins_1.sh
+   68  ./trenins_1.sh
+   69  nano trenins_1.sh
+   70  ./trenins_1.sh
+   71  history > history20171012.txt
+   72  nano trenins_1.sh
+   73  ./trenins_1.sh
+   74  history > history20171012.txt
