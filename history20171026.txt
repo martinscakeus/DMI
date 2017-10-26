@@ -1,0 +1,185 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  git clone https://github.com/martinscakeus/DMI
+    4  cd DMI
+    5  nano if.sh
+    6  chmod 744 if.sh
+    7  ./if.sh
+    8  ./if.sh 10
+    9  nano if.sh
+   10  ./if.sh 10
+   11  ./if.sh -10
+   12  ./if.sh 10000
+   13  ./if.sh 10
+   14  nano if.sh
+   15  ./if.sh -10
+   16  nano if.sh
+   17  ./if.sh 10
+   18  nano if.sh
+   19  ./if.sh 10
+   20  ./if.sh -10
+   21  nano if.sh
+   22  ./if.sh -10
+   23* 
+   24  nano if.sh
+   25  ./if.sh 10
+   26  ./if.sh -10
+   27  nano if.sh
+   28  ./if.sh -10
+   29  ./if.sh 1
+   30  ./if.sh 0
+   31  ./if.sh -10
+   32  ./if.sh 0
+   33  nano if.sh
+   34  ./if.sh 0
+   35  nano if.sh
+   36  ./if.sh 0
+   37  nano if.sh
+   38  ./if.sh 0
+   39  ./if.sh 5
+   40  ./if.sh -10
+   41  ls -l
+   42  nano a_VS_b_VS_c.sh 
+   43  nano sort.sh
+   44  nano a_VS_b_VS_c.sh 
+   45  nano sort.sh
+   46  nano sort.sh 1 3 2
+   47  nano sort.sh 
+   48  chmod 744 sort.sh 
+   49  ./sort.sh
+   50  nano sort.sh 
+   51  ./sort.sh
+   52  ./sort.sh 1 5 6
+   53  nano sort.sh 
+   54  ./sort.sh 1 6 9
+   55  ./sort.sh 45 1 7
+   56  nano sort.sh 
+   57  ./sort.sh   34  36 33
+   58  cp sort.sh statistika,sh
+   59  nano statistika,sh 
+   60  ./statistika.sh   15 7 4 
+   61  chmod statistika.sh
+   62  chmod 744 statistika.sh
+   63  ./statistika.sh   15 7 4 
+   64  nano statistika.sh 
+   65  ./statistika.sh 45 34 23
+   66  nano statistika.sh 
+   67  ./statistika.sh 45 34 23
+   68  ./statistika.sh 25 26 27
+   69  cp statistika.sh  videja.sh
+   70  nano videja.sh
+   71  ls -l
+   72  nano dialogs.sh
+   73  nano videja.sh
+   74  nano dialogs.sh
+   75  nano videja.sh
+   76  nano dialogs.sh
+   77  nano videja.sh
+   78  ./videja.sh   4 4 4
+   79  ./videja.sh
+   80  ./videja.sh 4 5 6
+   81  nano videja.sh
+   82  ./videja.sh 4 5 6
+   83  nano videja.sh
+   84  ./videja.sh 4 5 6
+   85  ./videja.sh 8 7 9
+   86  nano videja.sh
+   87  nano videja.sh 8 9 4
+   88* ./
+   89  nano videja.sh
+   90  nano videja.sh 8 9 8
+   91  ./videja.sh 8 9 8
+   92  nano videja.sh 8 9 8
+   93  ./videja.sh 8 9 8
+   94  nano videja.sh 
+   95  ./videja.sh 8 9 8
+   96  nano dialogs.sh
+   97  nano videja.sh 
+   98  ./videja.sh 8 9 8
+   99  nano videja.sh 
+  100  ./videja.sh 8 8 8
+  101  nano videja.sh 
+  102  ./videja.sh 8 8 8
+  103  nano videja.sh 
+  104  ./videja.sh 8 8 8
+  105  nano videja.sh 
+  106  ./videja.sh 8 8 8
+  107  nano videja.sh 
+  108  ./videja.sh 8 8 8
+  109  nano videja.sh 
+  110  ./videja.sh 8 8 8
+  111  nano videja.sh 
+  112  ./videja.sh 8 8 8
+  113  nano videja.sh 
+  114  ./videja.sh 8 8 8
+  115  nano videja.sh 
+  116  ./videja.sh 8 8 8
+  117  nano videja.sh 
+  118  ./videja.sh 8 8 8
+  119  nano videja.sh 
+  120  ./videja.sh 8 8 8
+  121  ./videja.sh 9 8 9
+  122  ./videja.sh 5 5 5
+  123  ./videja.sh 16 49 105
+  124  nano videja.sh 
+  125  ./videja.sh 16 49 105
+  126  nano videja.sh 
+  127  ./videja.sh 16 49 105
+  128  nano videja.sh 
+  129  ./videja.sh 16 49 105
+  130  nano videja.sh 
+  131  ./videja.sh 16 49 105
+  132  nano array_loop.sh
+  133  ./array_loop.sh
+  134  chmod 744 array_loop.sh 
+  135  ./array_loop.sh
+  136  ./array_loop.sh 78 97
+  137  nano array_loop.sh
+  138  ./array_loop.sh 78 97
+  139  nano array_loop.sh
+  140  ./array_loop.sh 78 97
+  141  ./array_loop.sh 78 97 3647 3467356 76 7
+  142  nano array_loop.sh
+  143  ./array_loop.sh 78 
+  144  nano array_loop.sh
+  145  ./array_loop.sh 78 
+  146  nano array_loop.sh
+  147  ./array_loop.sh 78 54 63756 8758 3568 578 78 67
+  148  nano videja.sh
+  149  ./videja.sh
+  150  nano videja.sh
+  151  ./videja.sh
+  152  nano videja.sh
+  153  ./videja.sh
+  154  nano videja.sh
+  155  ./videja.sh 54  6356 3 46
+  156  nano videja.sh
+  157  ./videja.sh 54  6356 3 46
+  158  nano videja.sh
+  159  ./videja.sh 54  6356 3 46
+  160  nano videja.sh
+  161  ./videja.sh 54  6356 3 46
+  162  nano videja.sh
+  163  ./videja.sh 54  6356 3 46
+  164  nano videja.sh
+  165  ./videja.sh 54  6356 3 46
+  166  nano videja.sh
+  167  ./videja.sh 54  6356 3 46
+  168  nano videja.sh
+  169  ./videja.sh 54  6356 3 46
+  170  nano videja.sh
+  171  ./videja.sh 54  6356 3 46
+  172  nano videja.sh
+  173  ./videja.sh 54  6356 3 46
+  174  nano videja.sh
+  175  ./videja.sh 54  6356 3 46
+  176  nano videja.sh
+  177  ./videja.sh 54  6356 3 46
+  178  nano videja.sh
+  179  ./videja.sh 54  6356 3 46
+  180  nano videja.sh
+  181  ./videja.sh 54  6356 3 46
+  182  nano videja.sh
+  183  ./videja.sh 54  6356 3 46
+  184  nano videja.sh
+  185  history > history20171026.txt
