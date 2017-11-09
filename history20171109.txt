@@ -1,0 +1,147 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/martinscakeus/DMI
+    3  cd DMI
+    4  mkdir PYTHON
+    5  ls -l
+    6  cd PYTHON
+    7  nano hello.py
+    8  whereis python
+    9  nano hello.py
+   10  ./hello.py
+   11  chmod 744 hello.py
+   12  ./hello.py
+   13  nano hello.py
+   14  ./hello.py
+   15  nano hello.py
+   16  ./hello.py
+   17  nano hello.py
+   18  ./hello.py
+   19  nano hello.py
+   20  ./hello.py
+   21  nano hello.py
+   22  ./hello.py
+   23  nano hello.py
+   24  ./hello.py
+   25  nano hello.py
+   26  ./hello.py
+   27  nano hello.py
+   28  ./hello.py
+   29  nano hello.py
+   30  ./hello.py
+   31  nano hello.py
+   32  ./hello.py
+   33  nano hello.py
+   34  ./hello.py
+   35  nano hello.py
+   36  ./hello.py
+   37  nano hello.py
+   38  ./hello.py
+   39  nano hello.py
+   40  ./hello.py
+   41  nano hello.py
+   42  ./hello.py
+   43  nano hello.py
+   44  ./hello.py
+   45  nano hello.py
+   46  ./hello.py
+   47  nano hello.py
+   48  ./hello.py
+   49  nano hello.py
+   50  ./hello.py
+   51  nano hello.py
+   52  ./hello.py
+   53  nano hello.py
+   54  ./hello.py
+   55  nano hello.py
+   56  ./hello.py
+   57  nano hello.py
+   58  ./hello.py
+   59  nano hello.py
+   60  ./hello.py
+   61  nano hello.py
+   62  ./hello.py
+   63  nano hello.py
+   64  ./hello.py
+   65  nano hello.py
+   66  ./hello.py
+   67  nano hello.py
+   68  ./hello.py
+   69  nano hello.py
+   70  ./hello.py
+   71  nano hello.py
+   72  ./hello.py
+   73  nano hello.py
+   74  ./hello.py
+   75  nano hello.py
+   76  ./hello.py
+   77  nano hello.py
+   78  ./hello.py
+   79  nano hello.py
+   80  ./hello.py
+   81  nano hello.py
+   82  ./hello.py
+   83  nano hello.py
+   84  ./hello.py
+   85  nano hello.py
+   86  ./hello.py
+   87  nano variables.py
+   88  chmodd 744 variables.py 
+   89  chmod 744 variables.py 
+   90  ./variables.py
+   91  nano variables.py
+   92  ./variables.py
+   93  nano variables.py
+   94  ./variables.py
+   95  nano variables.py
+   96  ./variables.py
+   97  nano variables.py
+   98  ./variables.py
+   99  nano variables.py
+  100  ./variables.py
+  101  nano variables.py
+  102  ./variables.py
+  103  nano variables.py
+  104  ./variables.py
+  105  nano variables.py
+  106  y
+  107  nano dialogs.py
+  108  ./dialogs.py
+  109  chmod 744 dialogs.py 
+  110  ./dialogs.py
+  111  nano dialogs.py
+  112  ./dialogs.py
+  113  nano dialogs.py
+  114  ./dialogs.py
+  115  nano dialogs.py
+  116  ./dialogs.py
+  117  nano dialogs.py
+  118  ./dialogs.py
+  119  nano dialogs.py
+  120  ./dialogs.py
+  121  nano dialogs.py
+  122  ./dialogs.py
+  123  nano dialogs.py
+  124  ./dialogs.py
+  125  nano dialogs.py
+  126  nano dialogs.p
+  127  nano if.py
+  128  python if.py
+  129  nano if.py
+  130  python if.py
+  131  nano if.py
+  132  python if.py
+  133  nano if.py
+  134  python if.py
+  135  nano if.py
+  136  python if.py
+  137  nano if.py
+  138  python if.py
+  139  nano if.py
+  140  python if.py
+  141  idle&
+  142  python if.py
+  143  nano if.py
+  144  python if.py
+  145  cd ..
+  146  cd DMI
+  147  history > history20171109.txt
