@@ -1,0 +1,16 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/martinscakeus/DMI
+    3  cd PYTHON
+    4  cd DMI
+    5  cd PYTHON
+    6  idle &
+    7  ls
+    8  python sin_caur_summu_ver5.py
+    9  idle
+   10  cd DMI
+   11  ..
+   12  cd DMI
+   13  ..
+   14  . .
+   15  cd ..
+   16  history >  history20171123.txt
