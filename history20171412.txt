@@ -1,0 +1,42 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/martinscakeus/DMI
+    3  cd PYTHON
+    4  cd DMI
+    5  cd PYTHON
+    6  idle
+    7  find pentagon main server
+    8  why are you not responding
+    9  bitch
+   10  c'mon
+   11  Krister
+   12  nestrādā
+   13  q
+   14  Q
+   15  xaqww
+   16  xq
+   17  q
+   18  w
+   19  ds
+   20  f
+   21  af]a
+   22  wqef
+   23  we
+   24  qwq
+   25  q
+   26  q
+   27  q
+   28  q
+   29  q
+   30  Q@QQ
+   31  Q
+   32  Q
+   33  Q
+   34  Q
+   35  q
+   36  firefox &
+   37  cd DMI
+   38  cd PYTHON
+   39  idle
+   40  idle &
+   41  cd ..
+   42  history > history20171412.txt
