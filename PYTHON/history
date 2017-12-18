@@ -1,0 +1,285 @@
+    1  pwd
+    2  who
+    3  wher
+    4  where
+    5  a
+    6  -a
+    7  - a
+    8  ls
+    9  pwd
+   10  pwd -a
+   11  ls-a
+   12  ls -a
+   13  pwd
+   14  l
+   15  ls
+   16  -ls
+   17  a -ls
+   18  d
+   19  -d
+   20  -a
+   21  l
+   22  pwd
+   23  who
+   24  whoami
+   25  when'
+   26  when
+   27  pwd
+   28  ls
+   29  histor
+   30  history
+   31  a
+   32  d
+   33  -d
+   34  c ..
+   35  c.
+   36  c document
+   37  c.
+   38  c .
+   39  c ..
+   40  pwd
+   41  who
+   42  whoami
+   43  e
+   44  - e
+   45  e-
+   46  dc
+   47  man sudo _root
+   48  command
+   49  pwd
+   50  /home/martins/documents
+   51  dc documents
+   52  dc firefox
+   53  dc
+   54  pwdd
+   55  pwd
+   56  who
+   57  dc
+   58  ls
+   59  sl
+   60  l
+   61  a -ls
+   62  d -ls
+   63  pwd
+   64  git clone https://github.com/martinscakeus/DMI
+   65  gitclone https://github.com/martinscakeus/DMI
+   66  git clone https://github.com/martinscakeus/DMI
+   67  git clone https://github.com/martinscakeus/DMI.git
+   68  git clone https://github.com/martinscakeus/DMI
+   69  #!/bin/bash
+   70  git clone https://github.com/martinscakeus/DMI.git
+   71  #!/bin/bash
+   72  chmod 744 git clone
+   73  git clone
+   74  gitclone #!/bin/bash
+   75  gitclone https://github.com/martinscakeus/DMI.git
+   76  git clone https://github.com/martinscakeus/DMI.git
+   77  sudo apt install git
+   78  git clone https://github.com/martinscakeus/DMI.git
+   79  ls -l
+   80  cd DMI
+   81  nano komandas.txt
+   82  history > history20171008.txt
+   83  nano git-upload
+   84  git-upload
+   85  ./git-upload
+   86  nano git-upload
+   87  ./git-upload
+   88  nano git-upload
+   89  git config --global user.email cakeusmartins@gmail.com
+   90  git add .
+   91  git commit -m "20171008_16_49"
+   92  git push origin master
+   93  nano komandas.txt
+   94  firefox &
+   95  whoami
+   96  who
+   97  is
+   98  ls
+   99  ls -a
+  100  uname -r
+  101  lsb_release
+  102  cat/etc*-release
+  103  echo
+  104  [echo $0]
+  105  ls-r
+  106  ls -r
+  107  pwd man
+  108  pwd
+  109  man
+  110  echo $0
+  111  man
+  112  y
+  113  1
+  114  2
+  115  3
+  116  4
+  117  5
+  118  56
+  119  66
+  120  man ls
+  121  ls -la
+  122  cd ..
+  123  pwd
+  124  cd 
+  125  pwd
+  126  cd
+  127  pwd
+  128  cd ..
+  129  pwd
+  130  cd
+  131  pwd
+  132  cd
+  133  pwd
+  134  cd /
+  135  cd Q
+  136  cd ~
+  137  pwd
+  138  cd~
+  139  cd ~
+  140  pwd
+  141  cd Documents
+  142  pwd
+  143  cd ~
+  144  pwd
+  145  cp
+  146  where is sl
+  147  where is ls
+  148  whereis ls
+  149  rm -rf
+  150  ls -l
+  151  git clone https://github.com/martinscakeus/DMI
+  152  ls -l
+  153  git clone https://github.com/martinscakeus/DMI
+  154  git download
+  155  ls -l
+  156  cd DMI
+  157  ls -l
+  158  nano git-download
+  159  ./git-download
+  160  cd ..
+  161  ./git-download
+  162  cd DMI
+  163  cd PYTHON
+  164  ls -l
+  165  nano git download
+  166  nano git-upload
+  167  ./clear
+  168  q
+  169  rm DMI
+  170  rm -rf DMI
+  171  ls l
+  172  cd ..
+  173  rm -rf DMI
+  174  ls -l
+  175  git clone https://github.com/martinscakeus/DMI
+  176  cd DMI
+  177  ls -l
+  178  cd PYTHON
+  179  idle
+  180  sudo apt install idle
+  181  idle
+  182  cd DMI
+  183  cd .
+  184  ~
+  185  cd ..
+  186  ls -l
+  187  cd PYTHON
+  188  ls -l
+  189  cd .
+  190  cd ~
+  191  ls -l
+  192  cd DMI
+  193  ls -l
+  194  nano array_loop.sh 
+  195  cat array_loop.sh 
+  196  nano array_loop.sh 
+  197  nano shell_relation_operators.sh 
+  198  car shell_relation_operators.sh 
+  199  cat shell_relation_operators.sh 
+  200  ./shell_relational_operators_comments.sh 
+  201  nano statistika.sh
+  202  ./statistika.sh
+  203  ./statistika.sh 10
+  204  ./statistika.sh 10 15 20 24
+  205  cat a_VS_b.sh
+  206  ./a_VS_b.sh
+  207  ./sort
+  208  ./sort.sh 
+  209  ./sort.sh  10 20 30 40 50
+  210  cat if.sh 
+  211  ./if.sh 
+  212  ./if.sh 10 20 30 40
+  213  ls -l
+  214  ./videja.sh 
+  215  ./videja.sh  10 20 30 04
+  216  ./videja.sh  10 20 30
+  217  nano videja.sh 
+  218  ./videja.sh 
+  219  nano videja.sh 
+  220  ./relation_operators.sh 
+  221  ./test1 
+  222  nano test1
+  223  ./trenins_1.sh 
+  224  ./shell_exple.sh 
+  225  ./shell_relational_operators_comments.sh 
+  226  cd PYTHON
+  227  ls -l
+  228  cat dialogs.py 
+  229  ./dialogs.py 
+  230  ./variables.py 
+  231  idle
+  232  idle &
+  233  firefox&
+  234  ls -l
+  235  rm -rf DMI
+  236  ls -l
+  237  sudo add-apt-repository ppa:linrunner/tlp
+  238  sudo apt-get update
+  239  sudo apt-get install tlp tlp-rdw
+  240  sudo tlp start
+  241  sudo apt-get install tlp tlp-rdw
+  242  sudo apt-get install indicator-cpufreq
+  243  sudo apt-get install indicator-cpufreqzq
+  244  sudo apt-get install indicator-cpufreq
+  245  sudo add-apt-repository ppa:linrunner/tlp
+  246  sudo apt-get update
+  247  1
+  248  sudo apt-get install tlp tlp-rdw
+  249  sudo tlp start
+  250  sudo apt-get update 
+  251  sudo apt-get install tlp tlp-rdw 
+  252  sudo tlp start 
+  253  tlp-stat --temp 
+  254  sudo pm-powersave false
+  255  doc TLP
+  256  tlp
+  257  tlp start
+  258  chmod 744 tlp
+  259  chmod 744 tlp start
+  260  ./tlp start
+  261  sudo apt-get install cpufrequtils
+  262  sudo nano /etc/default/cpufrequtils
+  263  sudo apt-get install cpufrequtils
+  264  sudo /etc/init.d/cpufrequtils restart
+  265  man tlp
+  266  rm -rf tlp
+  267  ls -l
+  268  man tlp
+  269  idl
+  270  idle
+  271  ls -l
+  272  git clone https://github.com/martinscakeus/DMI
+  273  ls -l
+  274  cd DMI
+  275  cd PYTHON
+  276  idle
+  277  idle &
+  278  man math
+  279  numpy
+  280  sudo apt nupy
+  281  sudo apt numpy
+  282  idle &
+  283  sudo apt-get install python-numpy
+  284  sudo apt-get install python-matplotlib
+  285  history > history
