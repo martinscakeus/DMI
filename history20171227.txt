@@ -1,0 +1,19 @@
+    1  VirtualBox --startvm XP
+    2  firefox animeforums.lv
+    3  ssh x171REB086@213.75.92.22
+    4  fggggggggggggggggggggggggggggggggggggggggggggggwshksd
+    5  sssss
+    6  scan
+    7  math
+    8  path
+    9  xdotool
+   10  ssh x171REB086@213.175.92.22
+   11  git clone https://github.com/martinscakeus/DMI
+   12  cd DMI
+   13  cd PYTHON
+   14  ls -l
+   15  idle
+   16  cd DMI
+   17  cd ..
+   18  nano git-upload
+   19  history > history20171227.txt
