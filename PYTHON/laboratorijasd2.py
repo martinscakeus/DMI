@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from math import sinh
-
+import numpy as np
 
 
 print "   500"
@@ -33,7 +33,7 @@ print "                   (2*k) (2*k+1)"
 
 
 
-def mans_sinussh(x):
+def mans_sinussh (x):
     k = 0
     a = x**1/(1)
     print ("Pirmais saskaitāmais: a%d = %6.2f")%(k,a)
@@ -54,7 +54,8 @@ def mans_sinussh(x):
 
 
 
-x = 1. *  input("Lietotāj, lūdzu ievadi argumentu (x):")
+x =  1. *  input("Lietotāj, lūdzu ievadi argumentu (x):")
+#x = np.float128(input("Lietotāj, lūdzu ievadi argumentu (x):"))
 print type(x)
 y = sinh(x)
 print "standarta sinh(%.2f)=%.2f"%(x,y)

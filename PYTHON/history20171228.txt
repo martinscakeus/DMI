@@ -1,0 +1,8 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/martinscakeus/DMI
+    3  cd DMI
+    4  cd PYTHON
+    5  idle
+    6  idle &
+    7  sudo apt install gmpy
+    8  history > history20171228.txt
