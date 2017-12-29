@@ -14,12 +14,21 @@ def mans_sinussh(x):
         S = S + a
     return S
 
-a = 1.57 #pi/2
-b = 3 * np.pi #4.71 #3*pi/2
+a = -np.pi #pi/2
+b = 1 * np.pi #4.71 #3*pi/2
 x = np.arange(a,b,0.05)
 y = mans_sinussh(x)
 plt.plot(x,y,'go')
 plt.grid()
+plt.xlabel('x ')
+plt.ylabel('y ')
+plt.title('Hiperboliskais sinh un ta atvasinajumi')
+
+
+
+
+
+
 #plt.show()
 
 n = len(x)
@@ -36,7 +45,7 @@ for i in range(n-1):
 
 
     
-plt.plot(x[:n-1],y_prim,'rv')
+plt.legend(plt.plot(x[:n-1],y_prim,'rv'))
 #plt.show()
 
 
@@ -46,18 +55,18 @@ for i in range(n-2):
     delta_y_prim = y_prim[i+1]-y_prim[i]
     y_2prim.append(delta_y_prim/delta_x)
 
-plt.plot(x[:n-2],y_2prim,'b*')
+plt.legend(plt.plot(x[:n-2],y_2prim,'b*'))
 
-
-
-
+'''
 y_3prim = []
 for i in range(n-3):
     delta_x = x[i+1]-x[i]
     delta_y_2prim = y_2prim[i+1]-y_2prim[i]
     y_3prim.append(delta_y_2prim/delta_x)
 
-plt.plot(x[:n-3],y_3prim,'b*')
+plt.plot(x[:n-3],y_3prim,'g*')
+'''
+
 
 plt.show()
 
