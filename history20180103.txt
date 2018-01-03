@@ -1,0 +1,274 @@
+    1  git clone https://github.com/martinscakeus/DMI
+    2  sudo apt install git
+    3  git clone https://github.com/martinscakeus/DMI
+    4  cdc DMI
+    5  cd DMI
+    6  ls -l
+    7  cd PYTHON
+    8  ls -l
+    9  cd ..
+   10  nano laboratorijasd1
+   11  chmod 744 laboratorijasd1 
+   12  ./laboratorijasd1 
+   13  nano laboratorijasd1 
+   14  ./laboratorijasd1 
+   15  nano laboratorijasd1 
+   16  ./laboratorijasd1 
+   17  nano laboratorijasd1 
+   18  ./laboratorijasd1 
+   19  nano laboratorijasd1 
+   20  ./laboratorijasd1 
+   21  nano laboratorijasd1 
+   22  ./laboratorijasd1 
+   23  nano laboratorijasd1 
+   24  ./laboratorijasd1 
+   25  nano laboratorijasd1 
+   26  ./laboratorijasd1 
+   27  nano laboratorijasd1 
+   28  ./laboratorijasd1 
+   29  nano laboratorijasd1 
+   30  ./laboratorijasd1 
+   31  nano laboratorijasd1 
+   32  y
+   33  ./laboratorijasd1 
+   34  nano laboratorijasd1 
+   35  ./laboratorijasd1 
+   36  chmod 744 laboratorijasd1 
+   37  nano laboratorijasd1 
+   38  y
+   39  ./laboratorijasd1 
+   40  nano laboratorijasd1 
+   41  ./laboratorijasd1 
+   42  nano laboratorijasd1 
+   43  ./laboratorijasd1 
+   44  nano laboratorijasd1 
+   45  ./laboratorijasd1 
+   46  nano laboratorijasd1 
+   47  ./laboratorijasd1 
+   48  nano laboratorijasd1 
+   49  ./laboratorijasd1 
+   50  nano laboratorijasd1 
+   51  ./laboratorijasd1 
+   52  7
+   53  ./laboratorijasd1 
+   54  nano laboratorijasd1 
+   55  ./laboratorijasd1 
+   56  nano laboratorijasd1 
+   57  ./laboratorijasd1 
+   58  nano laboratorijasd1 
+   59  ./laboratorijasd1 
+   60  nano laboratorijasd1 
+   61  ./laboratorijasd1 
+   62  nano laboratorijasd1 
+   63  ./laboratorijasd1 
+   64  nano laboratorijasd1 
+   65  ./laboratorijasd1 
+   66  nano laboratorijasd1 
+   67  ./laboratorijasd1 
+   68  nano laboratorijasd1 
+   69  ./laboratorijasd1 
+   70  nano laboratorijasd1 
+   71  ./laboratorijasd1 
+   72  nano laboratorijasd1 
+   73  ./laboratorijasd1 
+   74  nano laboratorijasd1 
+   75  ./laboratorijasd1 
+   76  nano laboratorijasd1 
+   77  ./laboratorijasd1 
+   78  nano laboratorijasd1 
+   79  ./laboratorijasd1 
+   80  nano laboratorijasd1 
+   81  ./laboratorijasd1 
+   82  nano laboratorijasd1 
+   83  ./laboratorijasd1 
+   84  nano laboratorijasd1 
+   85  ./laboratorijasd1 
+   86  nano laboratorijasd1 
+   87  ./laboratorijasd1 
+   88  nano laboratorijasd1 
+   89  ./laboratorijasd1 
+   90  nano laboratorijasd1 
+   91  ./laboratorijasd1 
+   92  nano laboratorijasd1 
+   93  ./laboratorijasd1 
+   94  nano laboratorijasd1 
+   95  ./laboratorijasd1 
+   96  nano laboratorijasd1 
+   97  ./laboratorijasd1 
+   98  nano laboratorijasd1 
+   99  ./laboratorijasd1 
+  100  nano laboratorijasd1 
+  101  ./laboratorijasd1 
+  102  nano laboratorijasd1 
+  103  ./laboratorijasd1 
+  104  nano laboratorijasd1 
+  105  ./laboratorijasd1 
+  106  nano laboratorijasd1 
+  107  ./laboratorijasd1 
+  108  nano laboratorijasd1 
+  109  ./laboratorijasd1 
+  110  nano laboratorijasd1 
+  111  ./laboratorijasd1 
+  112  nano laboratorijasd1 
+  113  ./laboratorijasd1 
+  114  nano laboratorijasd1 
+  115  ./laboratorijasd1 
+  116  nano laboratorijasd1 
+  117  ./laboratorijasd1 
+  118  nano laboratorijasd1 
+  119  y
+  120  ./laboratorijasd1 
+  121  nano laboratorijasd1 
+  122  ./laboratorijasd1 
+  123  nano laboratorijasd1 
+  124  ./laboratorijasd1 
+  125  nano laboratorijasd1 
+  126  ./laboratorijasd1 
+  127  nano laboratorijasd1 
+  128  ./laboratorijasd1 
+  129  nano laboratorijasd1 
+  130  ./laboratorijasd1 
+  131  nano laboratorijasd1 
+  132  ./laboratorijasd1 
+  133  nano laboratorijasd1 
+  134  ./laboratorijasd1 
+  135  nano laboratorijasd1 
+  136  ./laboratorijasd1 
+  137  nano laboratorijasd1 
+  138  ./laboratorijasd1 
+  139  nano laboratorijasd1 
+  140  ./laboratorijasd1 
+  141  nano laboratorijasd1 
+  142  ./laboratorijasd1 
+  143  nano laboratorijasd1 
+  144  ./laboratorijasd1 
+  145  nano laboratorijasd1 
+  146  ./laboratorijasd1 
+  147  nano laboratorijasd1 
+  148  ./laboratorijasd1 
+  149  nano laboratorijasd1 
+  150  ./laboratorijasd1 
+  151  nano laboratorijasd1 
+  152  ./laboratorijasd1 
+  153  nano laboratorijasd1 
+  154  ./laboratorijasd1 
+  155  nano laboratorijasd1 
+  156  ./laboratorijasd1 
+  157  nano laboratorijasd1 
+  158  ./laboratorijasd1 
+  159  nano laboratorijasd1 
+  160  ./laboratorijasd1 
+  161  nano laboratorijasd1 
+  162  ./laboratorijasd1 
+  163  nano laboratorijasd1 
+  164  ./laboratorijasd1 
+  165  nano laboratorijasd1 
+  166  ./laboratorijasd1 
+  167  nano laboratorijasd1 
+  168  ./laboratorijasd1 
+  169  nano laboratorijasd1 
+  170  ./laboratorijasd1 
+  171  nano laboratorijasd1 
+  172  ./laboratorijasd1 
+  173  nano laboratorijasd1 
+  174  ./laboratorijasd1 
+  175  nano laboratorijasd1 
+  176  ./laboratorijasd1 
+  177  nano laboratorijasd1 
+  178  ./laboratorijasd1 
+  179  nano laboratorijasd1 
+  180  ./laboratorijasd1 
+  181  nano laboratorijasd1 
+  182  ./laboratorijasd1 
+  183  nano laboratorijasd1 
+  184  ./laboratorijasd1 
+  185  nano laboratorijasd1 
+  186  ./laboratorijasd1 
+  187  nano laboratorijasd1 
+  188  ./laboratorijasd1 
+  189  nano laboratorijasd1 
+  190  ./laboratorijasd1 
+  191  nano laboratorijasd1 
+  192  ./laboratorijasd1 
+  193  nano laboratorijasd1 
+  194  ./laboratorijasd1 
+  195  nano laboratorijasd1 
+  196  ./laboratorijasd1 
+  197  nano laboratorijasd1 
+  198  ./laboratorijasd1 
+  199  nano laboratorijasd1 
+  200  ./laboratorijasd1 
+  201  history
+  202  history > history20171215.txt
+  203  nano git-upload
+  204  ./git-upload
+  205  nano git-upload
+  206  ./git-upload
+  207  nano git-upload
+  208  ./git-upload
+  209  nano git-upload 
+  210  git config --gloabal user.email cakeusmartins@gmail.com
+  211  git add .
+  212  git commit -m "20171215_16_37"
+  213  git push origin master
+  214  git config --gloabal user.email cakeusmartins@gmail.com
+  215  git add .
+  216  git commit -m "20171215_16_37"
+  217  git push origin master
+  218  git config --gloabal user.email cakeusmartins@gmail.com
+  219  git add .
+  220  git commit -m "20171215_16_37"
+  221  git push origin master
+  222  nano git-upload
+  223  git push origin master
+  224  git config --gloabal user.email cakeusmartins@gmail.com
+  225  git add .
+  226  git commit -m "20171214_16_32"
+  227  git push origin master
+  228  nano git-upload
+  229  ./git-upload 
+  230  ls -lt
+  231  nano git-upload 
+  232  ./git-upload 
+  233  nano git-upload 
+  234  ./git-upload 
+  235  firefox &
+  236  ls -l
+  237  rm -rf DMI
+  238  ls -l
+  239  git clone DMI
+  240  git clone https://github.com/martinscakeus/DMI
+  241  idle &
+  242  sudo apt install idle
+  243  idle &
+  244  sudo apt install idle
+  245  cd ~
+  246  sudo apt install idle
+  247  idle &
+  248  sudo apt install idle
+  249  idle &
+  250  cd PYTHON
+  251  cd DMI
+  252  cd PYTHON
+  253  idle
+  254  idle &
+  255  sudo apt install numpy
+  256  ls -l
+  257  rm -rf DMI
+  258  git clone https://github.com/martinscakeus/DMI
+  259  sudo apt-get install numpy
+  260  cd DMI
+  261  cd PYTHON
+  262  idle
+  263  sudo apt-get install matplotlib.pyplot
+  264  idle &
+  265  python -m pip install -U pip
+  266  install numpy
+  267  sudo apt-get install python-numpy
+  268  sudo apt-get install python-matplotlib
+  269  cd DMI
+  270  cd PYTHON
+  271  idle &
+  272  cd DMI
+  273  cd ..
+  274  history > history20180103.txt

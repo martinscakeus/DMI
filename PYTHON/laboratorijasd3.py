@@ -14,6 +14,12 @@ def mans_sinussh(x):
         S = S + a
     return S
 
+def citafunkcija(x):
+    return mans_sinussh(x)-10
+
+
+    
+
 a = 2.57 #pi/2 
 b = 4.71 #3*pi/2 
 x = np.arange(a,b,0.01)
@@ -25,8 +31,11 @@ plt.grid()
 plt.show()
 
 
-funa = mans_sinussh(a)
-funb = mans_sinussh(b)
+
+
+
+funa = citafunkcija(a)
+funb = citafunkcija(b)
 if funa * funb > 0:
     print "[%.2f,%.2f] intervala saknes nav"%(a,b)
     print "vai ir paru saknu skaits"
@@ -42,7 +51,7 @@ k = 0
 while b-a > delta_x:
     k = k+1
     x = (a+b)/2
-    funx = mans_sinussh(x)
+    funx = citafunkcija(x)
     print "%3d.: a=%.5f f(%.5f)=%8.5f b=%.5f"%(k,a,x,funx,b)
     if funa * funx > 0:
         a = x
@@ -53,7 +62,8 @@ while b-a > delta_x:
 
 
 print "Gala rezultats:"
-print "a=%.5f f(a)=%.5f"%(a,mans_sinussh(a)),
+print "a=%.5f f(a)=%.5f"%(a,citafunkcija(a)),
 print "x=%.5f f(x)=%.5f"%(x,funx),
-print "b=%.5f f(b)=%.5f"%(b,mans_sinussh(b)),
+print "b=%.5f f(b)=%.5f"%(b,citafunkcija(b)),
 print "Rezultats ir sasniegts %d iteracijas"%(k)
+print "Sakne ir %.5f .Parāda, kur tiek krustota x ass ,kad ir veikta nobīde par -10 vienībām. Bez nobīdes funkcija nekrusto x asi. "%(x)
