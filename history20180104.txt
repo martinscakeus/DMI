@@ -1,0 +1,26 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/martinscakeus/DMI
+    3  cd DMI
+    4  cd PYTHON
+    5  idle &
+    6  ssh -X x171REB093@213.175.92.22
+    7  ls -l
+    8  idle &
+    9  ls -l
+   10  cd ..
+   11  ls -l
+   12  ./laboratorijasd1
+   13  ls -l
+   14  nano statistika.sh
+   15  ./statistika.sh
+   16  nano statistika.sh
+   17  ./statistika.sh
+   18  nano statistika.sh
+   19  ./statistika.sh
+   20  nano statistika.sh
+   21  ls -l
+   22  nano videja.sh 
+   23  nano a_VS_b_VS_c.sh 
+   24  ./a_VS_b_VS_c.sh 
+   25  nano a_VS_b_VS_c.sh 
+   26  history > history20180104.txt

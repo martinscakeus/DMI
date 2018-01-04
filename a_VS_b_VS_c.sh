@@ -11,10 +11,10 @@ echo " Skaitlis a ($a) ir vislielākais"
 
 
 elif  (( $b > $a )) && (( $b > $c ))
-then 
+then
 echo "Skaitlis b ($b) ir vislielākais"
 elif (( $c > $a )) && (( $c > $b ))
-then 
+then
 echo "Skaitlis c ($c) ir vislielākais"
 if (( $b > $c ))
 then
