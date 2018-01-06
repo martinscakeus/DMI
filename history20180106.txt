@@ -1,0 +1,220 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/martinscakeus/DMI
+    3  ls -l
+    4  cd DMI
+    5  ls -l
+    6  nano relation_operators.sh 
+    7  ./relation_operators.sh 
+    8  ./statistika.sh
+    9  nano statistika.sh
+   10  y
+   11  nano statistika.sh
+   12  ./statistika.sh
+   13  nano statistika.sh
+   14  ls -l
+   15  nano videja.sh
+   16  ./videja.sh 
+   17  nano videja.sh
+   18  ./videja.sh 
+   19  nano videja.sh
+   20  ./videja.sh 
+   21  nano videja.sh
+   22  ./videja.sh 
+   23  nano trenins_1.sh 
+   24  nano laboratorijasd0
+   25  nano trenins_1.sh 
+   26  nano laboratorijasd0
+   27  nano trenins_1.sh 
+   28  nano laboratorijasd0
+   29  nano sort.sh
+   30  ./sort.sh 2 9 10
+   31  nano if.sh
+   32  nano laboratorijasd0
+   33  nano statistika.sh
+   34  nano laboratorijasd0
+   35  chmod 744  laboratorijasd0
+   36  ./laboratorijasd0
+   37  nano laboratorijasd0
+   38  ./laboratorijasd0
+   39  nano laboratorijasd0
+   40  ./laboratorijasd0
+   41  nano laboratorijasd0
+   42  ./laboratorijasd0
+   43  nano laboratorijasd0
+   44  ./laboratorijasd0
+   45  nano laboratorijasd0
+   46  ./laboratorijasd0
+   47  nano laboratorijasd0
+   48  ./laboratorijasd0
+   49  nano laboratorijasd0
+   50  ./laboratorijasd0
+   51  nano laboratorijasd0
+   52  ./laboratorijasd0
+   53  nano laboratorijasd0
+   54  ./laboratorijasd0
+   55  nano laboratorijasd0
+   56  ./laboratorijasd0
+   57  nano laboratorijasd0
+   58  ./laboratorijasd0
+   59  nano laboratorijasd0
+   60  ./laboratorijasd0
+   61  nano laboratorijasd0
+   62  ./laboratorijasd0
+   63  nano laboratorijasd0
+   64  ./laboratorijasd0
+   65  nano laboratorijasd
+   66  nano laboratorijasd0
+   67  ./laboratorijasd0
+   68  nano laboratorijasd0
+   69  ./laboratorijasd0
+   70  nano laboratorijasd0
+   71  ls -l
+   72  nano sort.sh
+   73  nano laboratorijasd0
+   74  ./laboratorijasd0
+   75  nano laboratorijasd0
+   76  ./laboratorijasd0
+   77  nano laboratorijasd0
+   78  ./laboratorijasd0
+   79  nano laboratorijasd0
+   80  ./laboratorijasd0
+   81  nano laboratorijasd0
+   82  ./laboratorijasd0
+   83  nano laboratorijasd0
+   84  ./laboratorijasd0
+   85  nano laboratorijasd0
+   86  ./laboratorijasd0
+   87  nano laboratorijasd0
+   88  ./laboratorijasd0
+   89  nano laboratorijasd0
+   90  ./laboratorijasd0
+   91  nano laboratorijasd0
+   92  ./laboratorijasd0
+   93  nano laboratorijasd0
+   94  ./laboratorijasd0
+   95  nano laboratorijasd0
+   96  ./laboratorijasd0
+   97  nano laboratorijasd0
+   98  ./laboratorijasd0
+   99  nano laboratorijasd0
+  100  ./laboratorijasd0
+  101  nano laboratorijasd0
+  102  ./laboratorijasd0
+  103  nano laboratorijasd0
+  104  ./laboratorijasd0
+  105  nano laboratorijasd0
+  106  ./laboratorijasd0
+  107  nano laboratorijasd0
+  108  ./laboratorijasd0
+  109  nano laboratorijasd0
+  110  ./laboratorijasd0
+  111  nano laboratorijasd0
+  112  ./laboratorijasd0
+  113  nano laboratorijasd0
+  114  ./laboratorijasd0
+  115  nano laboratorijasd0
+  116  ./laboratorijasd0
+  117  nano laboratorijasd0
+  118  ./laboratorijasd0
+  119  nano laboratorijasd0
+  120  ./laboratorijasd0
+  121  nano laboratorijasd0
+  122  ./laboratorijasd0
+  123  nano laboratorijasd0
+  124  ./laboratorijasd0
+  125  nano laboratorijasd0
+  126  ./laboratorijasd0
+  127  nano laboratorijasd0
+  128  ./laboratorijasd0
+  129  nano laboratorijasd0
+  130  ./laboratorijasd0
+  131  nano laboratorijasd0
+  132  ./laboratorijasd0
+  133  nano laboratorijasd0
+  134  ./laboratorijasd0
+  135  nano laboratorijasd0
+  136  ./laboratorijasd0
+  137  nano laboratorijasd0
+  138  ./laboratorijasd0
+  139  nano laboratorijasd0
+  140  ./laboratorijasd0
+  141  nano laboratorijasd0
+  142  ./laboratorijasd0
+  143  nano laboratorijasd0
+  144  ./laboratorijasd0
+  145  nano laboratorijasd0
+  146  ./laboratorijasd0
+  147  nano laboratorijasd0
+  148  ./laboratorijasd0
+  149  nano laboratorijasd0
+  150  ./laboratorijasd0
+  151  nano laboratorijasd0
+  152  ./laboratorijasd0
+  153  nano laboratorijasd0
+  154  ./laboratorijasd0
+  155  nano laboratorijasd0
+  156  ./laboratorijasd0
+  157  nano laboratorijasd0
+  158  ./laboratorijasd0
+  159  nano laboratorijasd0
+  160  ./laboratorijasd0
+  161  nano laboratorijasd0
+  162  ./laboratorijasd0
+  163  nano laboratorijasd0
+  164  ./laboratorijasd0
+  165  nano laboratorijasd0
+  166  ./laboratorijasd0
+  167  nano laboratorijasd0
+  168  ./laboratorijasd0
+  169  nano laboratorijasd0
+  170  ./laboratorijasd0
+  171  nano laboratorijasd0
+  172  ./laboratorijasd0
+  173  nano laboratorijasd0
+  174  ./laboratorijasd0
+  175  nano laboratorijasd0
+  176  ./laboratorijasd0
+  177  nano laboratorijasd0
+  178  ./laboratorijasd0
+  179  nano laboratorijasd0
+  180  ./laboratorijasd0
+  181  nano laboratorijasd0
+  182  ls -l
+  183  nano statistika.sh
+  184  nano laboratorijasd0
+  185  ./laboratorijasd0
+  186* 
+  187  ./laboratorijasd0
+  188  nano laboratorijasd0
+  189  ./laboratorijasd0
+  190  nano laboratorijasd0
+  191  ./laboratorijasd0
+  192  nano laboratorijasd0
+  193  ./laboratorijasd0
+  194  nano laboratorijasd0
+  195  ./laboratorijasd0
+  196  nano laboratorijasd0
+  197  ./laboratorijasd0
+  198  nano laboratorijasd0
+  199  ./laboratorijasd0
+  200  nano laboratorijasd0
+  201  ./laboratorijasd0
+  202  nano laboratorijasd0
+  203  ./laboratorijasd0
+  204  nano laboratorijasd0
+  205  ./laboratorijasd0
+  206  nano laboratorijasd0
+  207  ./laboratorijasd0
+  208  nano laboratorijasd0
+  209  ./laboratorijasd0
+  210  nano laboratorijasd0
+  211  ls -l
+  212  nano statistika.sh
+  213  nano laboratorijasd0
+  214  ./laboratorijasd0
+  215  nano laboratorijasd0
+  216  ./laboratorijasd0
+  217  nano laboratorijasd0
+  218  ./laboratorijasd0
+  219  nano laboratorijasd0
+  220  history > history20180106.txt
