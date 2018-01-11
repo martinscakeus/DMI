@@ -46,7 +46,7 @@ fi
 
 if  (( $a == $b )) && (( $c < $a )) ; then
    echo " Minimālā vērtība = $c "
-if (( 
+
 fi
 if  (( $a == $c )) && (( $b < $a )) ; then
     echo " Minimālā vērtība = $b "
