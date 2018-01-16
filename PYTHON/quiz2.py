@@ -3,8 +3,8 @@ import random
 import numpy as np
 import matplotlib.pyplot as plt
 
-def mans_sinussh(x):
-    y = np.sinh(x)
+def mans_sinuss(x):
+    y = np.sin(x)
     return y
 
 N = 100000
@@ -28,8 +28,8 @@ green_x = []
 green_y = []
 
 for i in range(N):
-    if (y[i] < mans_sinussh(x[i]) and y[i] > 0) \
-    or (y[i] > mans_sinussh(x[i]) and y[i] < 0):
+    if (y[i] < mans_sinuss(x[i]) and y[i] > 0) \
+    or (y[i] > mans_sinuss(x[i]) and y[i] < 0):
         green_x.append(x[i])
         green_y.append(y[i])
     else:
